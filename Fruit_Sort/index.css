@@ -1,0 +1,34 @@
+body {
+    padding: 40px;
+    background: cadetblue;
+    text-align: center;
+}
+
+#apples {
+    background: lightcoral;
+    border-radius: 10px;
+    height: 30px;
+    margin: 10px 0;
+}
+
+#fruits {
+    background: grey;
+    border-radius: 10px;
+    height: 30px;
+    margin: 10px 0;
+}
+
+#oranges {
+    background: lightsalmon;
+    border-radius: 10px;
+    height: 30px;
+}
+
+button {
+    margin-top: 10px;
+    background: lightgreen;
+    color: red;
+    font-weight: bold;
+    border-radius: 10px;
+    height: 30px;
+}
